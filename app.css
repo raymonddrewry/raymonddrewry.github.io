@@ -1,7 +1,16 @@
-
+:root{
+    --imgsize: 512px;
+}
 p.indent {
   text-indent: 30px;
 }
 p.shifted {
   margin-left: 30px;
+}
+.widthSet {
+    max-width: var(--imgsize);
+}
+
+.heightSet {
+    max-height: var(--imgsize);
 }
