@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Raymond Drewry"
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Raymond Drewry"
 description              : &description "VT Computer Engineering Student"
