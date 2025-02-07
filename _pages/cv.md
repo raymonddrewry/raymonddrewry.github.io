@@ -7,13 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-
-
-
-## Experience  
-
 ### **Computer Engineering Senior**  
 **Virginia Tech**  
 *Aug. 2021 – Present*  
